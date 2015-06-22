@@ -12,9 +12,14 @@ mu can be used for small blogs and things like that, but it is not recommended t
 You will need gcc and access to the internet (will clone and build hoedown). Run ```./configure.sh``` then ```./install.sh```. Configure other options as needed in simple.cfg.
 
 ##other
-feel free to poke around the code. it's semi-commented.
+feel free to poke around the code. it's semi-commented. honestly, there's nto too much, and the files are all split up.
 
 ##license
 apache
 
-made by ohnx :)
+##todo
+ - add customizeable page template (no more header and footer) where with formatting strings (ie, %fname%, %path%, %content)
+ - event based (probably will never get to this)
+ - add ability to edit files? :o
+
+made by ohnx :smile:
