@@ -36,7 +36,6 @@ struct {
 	{"html","text/html" },  
 	{"css", "text/css" },
 	{"js","text/javascript"},
-	{"ico", "image/x-icon" },
 	{0,0}
 };
 
