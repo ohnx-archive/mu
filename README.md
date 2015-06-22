@@ -1,4 +1,5 @@
 # mu
+not that this means much, but: [![Build Status](https://travis-ci.org/ohnx/mu.svg?branch=master)](https://travis-ci.org/ohnx/mu)
 mu is a mini markdown server in C.
 
 It has a configurable cache for parsed files, custom headers/footers for a file, and a bit more.
